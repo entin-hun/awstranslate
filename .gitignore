@@ -1,0 +1,5 @@
+aws/credentials
+.aws
+.vscode
+*.xls*
+*.csv
